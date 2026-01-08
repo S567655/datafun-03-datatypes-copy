@@ -6,6 +6,7 @@ Author: Sarah DeConink
 In this script we will look at Statistics, Correlation and Prediction, Using built-in functions, Methods,
 Transformations using filter() and map(), and Transformations using List Comprehension
 
+Project 3 - Completed
 """
 
 # import some modules first - how many can you make use of?
