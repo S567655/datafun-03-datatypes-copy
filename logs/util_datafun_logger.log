@@ -1,0 +1,15 @@
+2026-01-08 10:01:48,095 =============================================================
+2026-01-08 10:01:48,095 =============================================================
+2026-01-08 10:01:48,095 Today is 2026-01-08 at 10:01 AM
+2026-01-08 10:01:48,274 This file is running on: nt Windows 11
+2026-01-08 10:01:48,274 The Python version is: 3.12.0
+2026-01-08 10:01:48,274 The active conda environment is:  None
+2026-01-08 10:01:48,275 The active pip environment is:    None
+2026-01-08 10:01:48,275 The active environment path is:   C:\Users\user\AppData\Local\Programs\Python\Python312
+2026-01-08 10:01:48,275 The current working directory is: C:\Users\user\Downloads\datafun-03-datatypes-main (1)\datafun-03-datatypes-main
+2026-01-08 10:01:48,275 This source file is in:           c:\Users\user\Downloads\datafun-03-datatypes-main (1)\datafun-03-datatypes-main
+2026-01-08 10:01:48,275 =============================================================
+2026-01-08 10:01:48,275 =============================================================
+2026-01-08 10:01:48,276 Starting util_datafun_logger.py
+2026-01-08 10:01:48,276 Information is logged to: logs/logs\util_datafun_logger.log
+2026-01-08 10:01:48,276 Ending util_datafun_logger.py

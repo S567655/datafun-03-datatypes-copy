@@ -1,0 +1,24 @@
+2026-01-08 09:25:15,708 =============================================================
+2026-01-08 09:25:15,708 =============================================================
+2026-01-08 09:25:15,709 Today is 2026-01-08 at 09:25 AM
+2026-01-08 09:25:15,827 This file is running on: nt Windows 11
+2026-01-08 09:25:15,828 The Python version is: 3.12.0
+2026-01-08 09:25:15,828 The active conda environment is:  None
+2026-01-08 09:25:15,828 The active pip environment is:    None
+2026-01-08 09:25:15,828 The active environment path is:   C:\Users\user\AppData\Local\Programs\Python\Python312
+2026-01-08 09:25:15,828 The current working directory is: C:\Users\user\Downloads\datafun-03-datatypes-main (1)\datafun-03-datatypes-main
+2026-01-08 09:25:15,829 This source file is in:           c:\Users\user\Downloads\datafun-03-datatypes-main (1)\datafun-03-datatypes-main
+2026-01-08 09:25:15,829 =============================================================
+2026-01-08 09:25:15,829 =============================================================
+2026-01-08 09:25:15,830 Calling functions from main block
+2026-01-08 09:25:15,830 Calling process_text_woodchuck()
+2026-01-08 09:25:15,830 The list of words is: ['How', 'much', 'wood', 'would', 'a', 'woodchuck', 'chuck', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood?', 'He', 'would', 'chuck,', 'he', 'would,', 'as', 'much', 'as', 'he', 'could,', 'and', 'chuck', 'as', 'much', 'wood', 'as', 'a', 'woodchuck', 'would', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood.']
+2026-01-08 09:25:15,831 There are 38 words in the file.
+2026-01-08 09:25:15,831 The set of unique words is: {'as', 'He', 'he', 'wood', 'and', 'chuck,', 'a', 'chuck', 'would', 'would,', 'could,', 'could', 'How', 'wood?', 'woodchuck', 'wood.', 'if', 'much'}
+2026-01-08 09:25:15,831 There are 18 unique words in the file.
+2026-01-08 09:25:15,831 Calling create_random_sentence()
+2026-01-08 09:25:15,831 Random sentence: The confused dog studies sadly.
+2026-01-08 09:25:15,831 Calling create_random_sentence()
+2026-01-08 09:25:15,831 Random sentence: The bored dog runs slowly.
+2026-01-08 09:25:15,831 Calling play_game()
+2026-01-08 09:25:15,831 ready_for_continous_game = True

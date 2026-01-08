@@ -1,0 +1,62 @@
+2026-01-08 09:54:33,787 =============================================================
+2026-01-08 09:54:33,788 =============================================================
+2026-01-08 09:54:33,788 Today is 2026-01-08 at 09:54 AM
+2026-01-08 09:54:33,924 This file is running on: nt Windows 11
+2026-01-08 09:54:33,924 The Python version is: 3.12.0
+2026-01-08 09:54:33,925 The active conda environment is:  None
+2026-01-08 09:54:33,925 The active pip environment is:    None
+2026-01-08 09:54:33,925 The active environment path is:   C:\Users\user\AppData\Local\Programs\Python\Python312
+2026-01-08 09:54:33,925 The current working directory is: C:\Users\user\Downloads\datafun-03-datatypes-main (1)\datafun-03-datatypes-main
+2026-01-08 09:54:33,925 This source file is in:           c:\Users\user\Downloads\datafun-03-datatypes-main (1)\datafun-03-datatypes-main
+2026-01-08 09:54:33,925 =============================================================
+2026-01-08 09:54:33,925 =============================================================
+2026-01-08 09:54:33,925 Numerical Lists for Sarah's Sammie Shoppe
+2026-01-08 09:54:33,925 Lists 1 - Statistics Customer Reviews in July
+2026-01-08 09:54:33,925 Here is a list of the daily # of customer reviews for Sarah's Sammie Shoppe in July: [20, 35, 54, 0, 17, 47, 11, 67, 80, 33, 44, 78, 17, 47, 0, 50, 17, 17, 35, 47, 31, 75, 17, 25, 44, 17, 62, 65, 77, 56, 68]
+2026-01-08 09:54:33,925 There were a total of 31 days of data provided.
+2026-01-08 09:54:33,928 The mean of the # of reviews is 40.42.
+2026-01-08 09:54:33,928 The median of the # of reviews is 44.
+2026-01-08 09:54:33,929 The mode of the # of reviews is 17.
+2026-01-08 09:54:33,929 The standard deviation of the # of reviews is 23.81.
+2026-01-08 09:54:33,929 The variance of the # of reviews is 566.85.
+2026-01-08 09:54:33,929 
+2026-01-08 09:54:33,930 Lists 2 - Correlation and Prediction
+2026-01-08 09:54:33,930 The the first [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] days of business Sarah's Sammie Shoppe sold [5, 11, 14, 19, 25, 31, 37, 42, 47, 51] paninis.
+2026-01-08 09:54:33,930 The correlation of the first ten days of business to the number of paninis sold is 1.00.
+2026-01-08 09:54:33,930 The slope (sales per day) is 5.25.
+2026-01-08 09:54:33,930 The intercept (starting # of sales) is 4.58.
+2026-01-08 09:54:33,930 On Day 15 of our business, we predict we will sell 83.31 paninis.
+2026-01-08 09:54:33,930 
+2026-01-08 09:54:33,930 Lists 3 - Using Python built-in functions
+2026-01-08 09:54:33,930 The lowest # of reviews is 0.
+2026-01-08 09:54:33,931 The highest # of reviews is 80.
+2026-01-08 09:54:33,931 The sum of the # of reviews is 1253.
+2026-01-08 09:54:33,931 The average of the # of reviews is 40.42.
+2026-01-08 09:54:33,931 The # of reviews without repeats: {0, 11, 17, 20, 25, 31, 33, 35, 44, 47, 50, 54, 56, 62, 65, 67, 68, 75, 77, 78, 80}.
+2026-01-08 09:54:33,931 The # of reviews from lowest to highest: [0, 0, 11, 17, 17, 17, 17, 17, 17, 20, 25, 31, 33, 35, 35, 44, 44, 47, 47, 47, 50, 54, 56, 62, 65, 67, 68, 75, 77, 78, 80].
+2026-01-08 09:54:33,931 The # of reviews from highest to lowest [80, 78, 77, 75, 68, 67, 65, 62, 56, 54, 50, 47, 47, 47, 44, 44, 35, 35, 33, 31, 25, 20, 17, 17, 17, 17, 17, 17, 11, 0, 0].
+2026-01-08 09:54:33,932 
+2026-01-08 09:54:33,932 Lists 4 - List Methods
+2026-01-08 09:54:33,932 Here is a list of some tips at Sarah's Sammie Shoppe: [2, 4, 2, 6]
+2026-01-08 09:54:33,932 Append the list with a $5 tip: [2, 4, 2, 6, 5]
+2026-01-08 09:54:33,932 Customers are generous today. Extend the list with $2, $4, $5, $8 tips: [2, 4, 2, 6, 5, 2, 4, 5, 8]
+2026-01-08 09:54:33,932 Add one tip we forgot to count at the bottom of the jar: [10, 2, 4, 2, 6, 5, 2, 4, 5, 8]
+2026-01-08 09:54:33,932 What! A kid just stole a $5 bill from the jar! Here is the new list: [10, 2, 4, 2, 6, 2, 4, 5, 8]
+2026-01-08 09:54:33,932 Here is a copy of the tip list: [10, 2, 4, 2, 6, 2, 4, 5, 8]
+2026-01-08 09:54:33,932 There were 3 $2 tips today.
+2026-01-08 09:54:33,932 The first tip of the day was: $10
+2026-01-08 09:54:33,932 The last tip of the day was: $8
+2026-01-08 09:54:33,933 Here are the tips ordered lowest to highest: [2, 2, 2, 4, 4, 5, 6, 8, 10]
+2026-01-08 09:54:33,933 Here are the tips ordered highest to lowest: [10, 8, 6, 5, 4, 4, 2, 2, 2]
+2026-01-08 09:54:33,933 
+2026-01-08 09:54:33,933 Lists 5 - Transformations using filter() and map()
+2026-01-08 09:54:33,933 Strange facts about the tips
+2026-01-08 09:54:33,933 Here are the tips that were over $4: [10, 6, 5, 8]
+2026-01-08 09:54:33,933 Here is the cubed root of the tips. That's weird!: [2.154434690031884, 1.259921049894873, 1.5874010519681994, 1.259921049894873, 1.8171205928321394, 1.259921049894873, 1.5874010519681994, 1.709975946676697, 2.0]
+2026-01-08 09:54:33,933 Here are the volumes of boxes available to hold tomorrow's tips: [27, 64, 125]
+2026-01-08 09:54:33,933 
+2026-01-08 09:54:33,933 Lists 6 - Transformations using List Comprehension
+2026-01-08 09:54:33,933 Back to our customer surveys
+2026-01-08 09:54:33,933 Here are # of reviews per day that were less than 50 (calculated with list comprehension): [20, 35, 0, 17, 47, 11, 33, 44, 17, 47, 0, 17, 17, 35, 47, 31, 17, 25, 44, 17]
+2026-01-08 09:54:33,933 Here are is our goal of tripling our daily reviews by October (calculated with list comprehension): [60, 105, 162, 0, 51, 141, 33, 201, 240, 99, 132, 234, 51, 141, 0, 150, 51, 51, 105, 141, 93, 225, 51, 75, 132, 51, 186, 195, 231, 168, 204]
+2026-01-08 09:54:33,933 Here are is our goal of quadrupling our daily reviews by December (calculated with list comprehension): [80, 140, 216, 0, 68, 188, 44, 268, 320, 132, 176, 312, 68, 188, 0, 200, 68, 68, 140, 188, 124, 300, 68, 100, 176, 68, 248, 260, 308, 224, 272]
